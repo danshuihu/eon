@@ -16,5 +16,5 @@ def eliminatename(path , old):
       os.rename(src,dst)
     except:
       continue
-path = '/Users/tal/Downloads/5500考研单词新东方'
-eliminatename(path,'_')
+#path = ''
+#eliminatename(path,'_')
